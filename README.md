@@ -5,5 +5,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 (Qual o tempo de inatividade aceitável para determinado propósito?)<br>
 
 Todos os serviços - Computação - Máquinas virtuais - + Criar - Máquina virtual do Azure --> Opções de disponobilidade:<br>
-<br>
-Texto
+
+
+texto
